@@ -1,0 +1,4 @@
+{
+    "name": "observe",
+    "tree": { "$path": "src" }
+}
