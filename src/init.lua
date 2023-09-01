@@ -1,7 +1,7 @@
 --[[
 	Author @KinqAndi
 	Date @09/01/23
-	Version: 1.0.1
+	Version: 1.0.2
 
     Description: Observe is useful in cases where objects are not streamed in/added.
 ]]
