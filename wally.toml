@@ -7,8 +7,6 @@ realm = "shared"
 authors = [
 	"KinqAndi (https://github.com/KinqAndi)",
 ]
-include = ["src", "src/**", "wally.toml", "wally.lock", "default.project.json"]
-exclude = ["**"]
 
 [dependencies]
 Dumpster = "kinqandi/dumpster@0.3.5"
