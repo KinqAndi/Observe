@@ -1,6 +1,6 @@
 [package]
-name = "kinqandi/observe"
-version = "1.0.0"
+name = "kinqandi/dumpster"
+version = "0.3.5"
 registry = "https://github.com/UpliftGames/wally-index"
 license = "MIT OR Apache-2.0"
 realm = "shared"
@@ -9,7 +9,3 @@ authors = [
 ]
 include = ["src", "src/**", "wally.toml", "wally.lock", "default.project.json"]
 exclude = ["**"]
-
-[dependencies]
-Dumpster = "kinqandi/dumpster@0.3.5"
-Promise = "evaera/promise@^4"
